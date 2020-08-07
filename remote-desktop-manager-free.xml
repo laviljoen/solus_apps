@@ -26,5 +26,13 @@
             <Dependency>libxrender</Dependency>
         </RuntimeDependencies>
     </Package>
-
+  <History>
+        <Update release="1">
+            <Date>08/07/2020</Date>
+            <Version>2020.2.2.0</Version>
+            <Comment>Added Remote Desktop Manager to repo</Comment>
+            <Name>lv</Name>
+            <Email>lv@none.com</Email>
+        </Update>
+    </History>
 </PISI>
