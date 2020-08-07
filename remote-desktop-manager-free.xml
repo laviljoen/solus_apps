@@ -20,6 +20,11 @@
         <Files>
             <Path fileType="*">/</Path>
         </Files>
+        <RuntimeDependencies>
+            <Dependency>gst-plugins-base</Dependency>
+            <Dependency>libpng12</Dependency>
+            <Dependency>libxrender</Dependency>
+        </RuntimeDependencies>
     </Package>
 
 </PISI>
