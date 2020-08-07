@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PISI SYSTEM "https://getsol.us/standard/pisi-spec.dtd">
+<PISI>
+    <Source>
+        <Name>remotedesktopmanagerfree</Name>
+        <Homepage>https://www.devolutions.net/</Homepage>
+        <Packager>
+            <Name>lv</Name>
+            <Email>none@none.com</Email>
+        </Packager>
+        <Summary>A powerful Remote Desktop Manager</Summary>
+        <Description>A powerful Remote Desktop Manager</Description>
+        <License>https://www.devolutions.net/</License>
+        <Archive sha1sum="1a45cc72402b64f231d88a36b6397114e95810fc" type="binary">https://cdn.devolutions.net/download/Linux/RDM/2020.2.2.0/RemoteDesktopManager.Free_2020.2.2.0_amd64.deb</Archive>
+
+    </Source>
+
+    <Package>
+        <Name>remote-desktop-manager-free</Name>
+        <Files>
+            <Path fileType="*">/</Path>
+        </Files>
+    </Package>
+
+</PISI>
